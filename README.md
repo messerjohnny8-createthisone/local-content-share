@@ -152,3 +152,4 @@ This configuration will set the maximum accept size for file transfer through NP
 ### Backend Data Structure
 
 The application creates a `data` directory to store all uploaded files, text snippets, notepad notes, and links (in `files/`, `text/`, `md.file`, and `links.file` respectively). File expirations are saved in an `expiration.json` file in the data directory. Make sure the application has write permissions for the directory where it runs.
+run
